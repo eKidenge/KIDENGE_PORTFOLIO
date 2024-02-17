@@ -28,7 +28,7 @@ To get a local copy up and running follow these simple example steps:
 
 ### Setup
 ~~~
-git clone https://github.com/mandelatuks/-Portfolio/
+git clone https://github.com/eKidenge/-Portfolio/
 cd portfolio
 ~~~
 
@@ -38,9 +38,9 @@ cd portfolio
 
 👤 **Author1**
 
-- GitHub: [@mandelatuks](https://github.com/mandelatuks)
-- Twitter: [@MandelaTm1](https://twitter.com/MandelaTm1)
-- LinkedIn: [@Mandela Tumukunde](https://www.linkedin.com/in/mandela-tumukunde-794755194/)
+- GitHub: [@eKidenge](https://github.com/eKidenge)
+- Twitter: [@EKidenge](https://twitter.com/EKidenge)
+- LinkedIn: [@Kidenge Elisha](https://www.linkedin.com/in/kidenge-elisha-260b801b1/)
 
 ## 🤝 Contributing
 
@@ -54,7 +54,7 @@ Special thanks to the following contributors:
 
 👤 **Lembani Sakala**
 
-- GitHub: [@lembani](https://github.com/lembani)
+- GitHub: [@lembani](https://github.com/eKidenge)
 - Twitter: [@lembani_](https://twitter.com/lembani_)
 
 
